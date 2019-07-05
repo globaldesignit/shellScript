@@ -28,3 +28,14 @@ http://www.city.minato.tokyo.jp/shared/js/disaster_template_top2_onload.js
 http://www.city.minato.tokyo.jp/shared/js/disaster_onload2.js
 http://www.city.minato.tokyo.jp/shared/js/disaster_safety_onload.js
 http://www.city.minato.tokyo.jp/shared/js/disaster_news_onload.js
+http://minato-ai.globaldesignit.vn/shibamadosa/kurashi/todokede/hikkoshi/index.html
+http://minato-ai.globaldesignit.vn/zeimu/kurashi/zekin/shome/juminze.html
+http://minato-ai.globaldesignit.vn/kikikanri/bosai-anzen/bosai/kokuminhogo.html
+http://minato-ai.globaldesignit.vn/gomigenryou/kurashi/gomi/kate/k-wakekata/kanen.html
+http://minato-ai.globaldesignit.vn/shibamadochou/kurashi/todokede/utsushi.html
+http://minato-ai.globaldesignit.vn/sports/kodomo/sports/sports/center.html
+http://minato-ai.globaldesignit.vn/kosodatesien/kosodate/syusanmae.html
+http://minato-ai.globaldesignit.vn/kikaku/kaikaku/mainanba/tutikado.html
+http://minato-ai.globaldesignit.vn/hokenyobou/kenko/kenko/yobosesshu/kodomo.html
+http://minato-ai.globaldesignit.vn/chiikishinkou/kuminnmaturi.html
+http://minato-ai.globaldesignit.vn/kenchikukanshi/kankyo-machi/kenchiku/tekichosa.html
